@@ -17,9 +17,9 @@
 
 {
         "name": "Easy on Me",
-        "artists": {
-                "artist": "Adele"
-        },
+        "artists": [
+                "Adele"
+        ],
         "genres": [
                 "Pop"
         ],
